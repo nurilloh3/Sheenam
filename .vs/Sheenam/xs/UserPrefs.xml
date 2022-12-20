@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A30039E3-7FC7-4D12-9945-EBC9FB3990D5}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sheenam.API/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Sheenam.API/Program.cs" Line="5" Column="1" />
+      <File FileName="Sheenam.API/Startup.cs" Line="5" Column="1" />
+      <File FileName="Sheenam.API/Controllers/HomeController.cs" Line="14" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sheenam" expanded="True">
+            <Node name="Sheenam.API" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Sheenam.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
