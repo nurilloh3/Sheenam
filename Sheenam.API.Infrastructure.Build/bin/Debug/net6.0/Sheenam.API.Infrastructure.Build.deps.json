@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sheenam.API.Infrastructure.Build/1.0.0": {
+        "dependencies": {
+          "ADotNet": "2.0.5"
+        },
+        "runtime": {
+          "Sheenam.API.Infrastructure.Build.dll": {}
+        }
+      },
+      "ADotNet/2.0.5": {
+        "dependencies": {
+          "YamlDotNet": "11.2.1"
+        },
+        "runtime": {
+          "lib/net6.0/ADotNet.dll": {
+            "assemblyVersion": "2.0.5.0",
+            "fileVersion": "2.0.5.0"
+          }
+        }
+      },
+      "YamlDotNet/11.2.1": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sheenam.API.Infrastructure.Build/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ADotNet/2.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hwLzMAzR41q4+nu8CWqR77+HuDLRmFp0lFWROYhaxuwyCoKxHY0uf6Hf8+Uch0EagRkBHZUecMGIvvA/Rtqorw==",
+      "path": "adotnet/2.0.5",
+      "hashPath": "adotnet.2.0.5.nupkg.sha512"
+    },
+    "YamlDotNet/11.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tBt8K+korVfrjH9wyDEhiLKxbs8qoLCLIFwvYgkSUuMC9//w3z0cFQ8LQAI/5MCKq+BMil0cfRTRvPeE7eXhQw==",
+      "path": "yamldotnet/11.2.1",
+      "hashPath": "yamldotnet.11.2.1.nupkg.sha512"
+    }
+  }
+}
