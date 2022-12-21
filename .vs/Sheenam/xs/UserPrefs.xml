@@ -1,25 +1,26 @@
 ﻿<Properties StartupConfiguration="{A30039E3-7FC7-4D12-9945-EBC9FB3990D5}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sheenam.API/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sheenam.API.Infrastructure.Build/Program.cs">
     <Files>
-      <File FileName="Sheenam.API/Program.cs" Line="5" Column="1" />
-      <File FileName="Sheenam.API/Startup.cs" Line="5" Column="1" />
-      <File FileName="Sheenam.API/Controllers/HomeController.cs" Line="14" Column="12" />
+      <File FileName="Sheenam.API/Program.cs" />
+      <File FileName="Sheenam.API/Startup.cs" />
+      <File FileName="Sheenam.API/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Sheenam.API/appsettings.Development.json" Line="5" Column="30" />
+      <File FileName="Sheenam.API.Tests.Unit/Usings.cs" Line="1" Column="1" />
+      <File FileName="Sheenam.API.Infrastructure.Build/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Sheenam" expanded="True">
-            <Node name="Sheenam.API" expanded="True">
-              <Node name="Controllers" expanded="True" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Sheenam" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Sheenam.API.Tests.Unit FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Sheenam.API.Infrastructure.Build FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Sheenam.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MultiItemStartupConfigurations />

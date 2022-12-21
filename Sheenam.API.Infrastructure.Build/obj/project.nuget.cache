@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Wo5tPBA1EMFPdrXgQR8+dzEG8kmmOp9MlFCLERJbGz7QPXjRuX2XfmjPiYcJbS21CsE6TSN4ISL5cfNweCkGg==",
+  "success": true,
+  "projectFilePath": "/Users/nurilloh/Desktop/Sheenam/Sheenam.API.Infrastructure.Build/Sheenam.API.Infrastructure.Build.csproj",
+  "expectedPackageFiles": [
+    "/Users/nurilloh/.nuget/packages/adotnet/2.0.5/adotnet.2.0.5.nupkg.sha512",
+    "/Users/nurilloh/.nuget/packages/yamldotnet/11.2.1/yamldotnet.11.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
