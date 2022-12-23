@@ -8,7 +8,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Identity.Client.Extensions.Msal;
 using Microsoft.OpenApi.Models;
+using Sheenam.API.Brokers.Storage;
 
 namespace Sheenam.API
 {
@@ -29,7 +31,7 @@ namespace Sheenam.API
             };
 
             services.AddControllers();
-
+            services.AddDbContext<StorageBroker>();
             services.AddSwaggerGen(options =>
             {
                 options.SwaggerDoc(
